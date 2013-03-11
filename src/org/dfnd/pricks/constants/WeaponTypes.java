@@ -1,0 +1,6 @@
+package org.dfnd.pricks.constants;
+
+public enum WeaponTypes
+{
+	SWORD, GREATSWORD, AXE, MACE, HAMMER, LONGBOW, SHORTBOW, TORCH, SHIELD, WARHORN, SCEPTER, FOCUS, STAFF, DAGGER, PISTOL, RIFLE
+}
